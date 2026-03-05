@@ -1,4 +1,4 @@
-![BiteMatch](../assets/banner.png)
+![BiteMatch](assets/banner.png)
 
 BiteMatch helps friends decide where to eat by matching people with restaurants everyone likes.
 
