@@ -1,5 +1,3 @@
-# BiteMatch
-
 ![BiteMatch](../assets/banner.png)
 
 Swipe. Match. Eat.
